@@ -13,6 +13,8 @@ This project focuses on building a scalable data pipeline and conducting structu
 
 - Yelp Businesses: 113MB JSON (~150K records)
 
+- Link to downlaod the dataset: https://business.yelp.com/data/resources/open-dataset/
+
 **2. Data Engineering (ETL):**
 
 - Used Python (Jupyter Notebook) to split the large JSON review file into 26 smaller chunks.
@@ -47,6 +49,3 @@ This project focuses on building a scalable data pipeline and conducting structu
 **⚙️ Tech Stack:**
 
 Python · AWS S3 · Snowflake · SQL · JSON · UDF · Jupyter Notebook · Cloud Data Pipeline · Sentiment Analysis
-
-
-Link to downlaod the dataset: https://business.yelp.com/data/resources/open-dataset/
