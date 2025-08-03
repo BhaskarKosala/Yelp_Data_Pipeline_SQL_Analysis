@@ -1,16 +1,17 @@
 # Yelp_Data_Pipeline_SQL_Analysis
 
-**📊 End-to-End Yelp Data Analysis using SQL, Python, AWS S3 & Snowflake**
+
+# 📊 End-to-End Yelp Data Analysis using SQL, Python, AWS S3 & Snowflake
 
 This project focuses on building a scalable data pipeline and conducting structured analysis on Yelp's large-scale review and business datasets.
 
 
-**Flow Diagram of End to End Data Pipeline:**
+# Flow Diagram of End to End Data Pipeline:
 
 ![image alt](https://github.com/BhaskarKosala/Yelp_Data_Pipeline_SQL_Analysis/blob/1fe0bf03880ea3af2292022250adcb187f1c2465/flow%20chart%20of%20data%20pipe%20line.jpg)
 
 
-**🚀 Workflow Summary:**
+# 🚀 Workflow Summary:
 
 **1. Data Source:**
 
@@ -51,6 +52,6 @@ This project focuses on building a scalable data pipeline and conducting structu
 - Review sentiment trends
 
 
-**⚙️ Tech Stack:**
+# ⚙️ Tech Stack:
 
 Python · AWS S3 · Snowflake · SQL · JSON · UDF · Jupyter Notebook · Cloud Data Pipeline · Sentiment Analysis
